@@ -1,0 +1,18 @@
+{
+  "command": [
+    "{python}",
+    "app.py"
+  ],
+  "expected": {
+    "ready": [
+      "A",
+      "D"
+    ],
+    "rest": [
+      "B",
+      "C"
+    ],
+    "median_sweetness": 15,
+    "median_firmness": 3.5
+  }
+}
